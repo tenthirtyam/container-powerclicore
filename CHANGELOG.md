@@ -2,7 +2,7 @@
 
 ## [v1.0.0](https://github.com/tenthrtyam/powerclicore/releases/tag/v1.0.0)
 
-> Release Date: 2022-06-08
+> Release Date: 2022-06-07
 
 This release includes the following components:
 
