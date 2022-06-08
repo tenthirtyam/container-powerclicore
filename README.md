@@ -25,7 +25,7 @@ docker pull tenthirtyam/powerclicore:latest
 Run the following to download a specific version from Docker Hub:
 
 ```hcl
-docker pull tenthirtyam/powerclicore:x,y.z
+docker pull tenthirtyam/powerclicore:x.y.z
 ```
 
 Open an interactive terminal:
