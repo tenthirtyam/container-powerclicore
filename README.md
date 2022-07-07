@@ -15,7 +15,7 @@ Microsoft PowerShell Core | 7.2.0 | A cross-platform (Windows, Linux, and macOS)
 `PowerVCF`| 2.2.0 | PowerShell module for VMware Cloud Foundation API.
 `PowerValidatedSolutions` | 1.7.0 | PowerShell module for VMware Validated Solutions.
 `VMware.PowerManagement` | 1.0.0.1002 | PowerShell module for power management of VMware Cloud Foundation.
-`VMware.CloudFoundation.Reporting` | 1.0.0.1001` | PowerShell module for VMware Cloud Foundation reporting.
+`VMware.CloudFoundation.Reporting` | 1.0.0.1001 | PowerShell module for VMware Cloud Foundation reporting.
 
 ## Get Started
 
