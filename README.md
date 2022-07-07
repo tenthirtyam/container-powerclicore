@@ -14,6 +14,8 @@ Microsoft PowerShell Core | 7.2.0 | A cross-platform (Windows, Linux, and macOS)
 `VMware.vSphere.SsoAdmin` | 1.3.8 | PowerShell module for vCenter Single Sign-on.
 `PowerVCF`| 2.2.0 | PowerShell module for VMware Cloud Foundation API.
 `PowerValidatedSolutions` | 1.7.0 | PowerShell module for VMware Validated Solutions.
+`VMware.PowerManagement` | 1.0.0.1002 | PowerShell module for power management of VMware Cloud Foundation.
+`VMware.CloudFoundation.Reporting` | 1.0.0.100` | PowerShell module for VMware Cloud Foundation reporting.
 
 ## Get Started
 
