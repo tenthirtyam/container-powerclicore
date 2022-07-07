@@ -12,7 +12,7 @@ RUN echo "/usr/bin/pwsh" >> /etc/shells && \
     pwsh -c "Set-PSRepository -Name PSGallery -InstallationPolicy Trusted" && \
     pwsh -c "Install-Module -Name PSDesiredStateConfiguration" && \
     pwsh -c "Enable-ExperimentalFeature PSDesiredStateConfiguration.InvokeDscResource" && \
-    pwsh -c "\$ProgressPreference = \"SilentlyContinue\"; Install-Module VMware.PowerCLI -RequiredVersion 12.6.0" && \
+    pwsh -c "\$ProgressPreference = \"SilentlyContinue\"; Install-Module VMware.PowerCLI" && \
     pwsh -c "\$ProgressPreference = \"SilentlyContinue\"; Install-Module VMware.vSphere.SsoAdmin -RequiredVersion 1.3.8" && \
     pwsh -c "\$ProgressPreference = \"SilentlyContinue\"; Install-Module PowerVCF -RequiredVersion 2.2.0" && \
     pwsh -c "\$ProgressPreference = \"SilentlyContinue\"; Install-Module PowerValidatedSolutions -RequiredVersion 1.7.0" && \
